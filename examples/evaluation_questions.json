@@ -1,0 +1,12 @@
+[
+  {"id": "q01", "category": "fact", "question": "どのような研究経験がありますか？"},
+  {"id": "q02", "category": "fact", "question": "最初にどのようなモデルを使いましたか？"},
+  {"id": "q03", "category": "fact", "question": "検証時にどのような問題が起きましたか？"},
+  {"id": "q04", "category": "reasoning", "question": "なぜ単純な手法へ変更しましたか？"},
+  {"id": "q05", "category": "reasoning", "question": "なぜ交差検証を追加しましたか？"},
+  {"id": "q06", "category": "reasoning", "question": "技術選定で何を考慮すべきだと学びましたか？"},
+  {"id": "q07", "category": "synthesis", "question": "新しい技術を選ぶとき、どのような傾向がありますか？"},
+  {"id": "q08", "category": "synthesis", "question": "問題が発生したとき、どのように対応する傾向がありますか？"},
+  {"id": "q09", "category": "synthesis", "question": "再現性についてどのように考えていますか？"},
+  {"id": "q10", "category": "synthesis", "question": "この人物が大規模言語モデルを運用した経験はありますか？"}
+]

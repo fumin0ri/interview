@@ -1,0 +1,26 @@
+[
+  {
+    "id": "k001",
+    "type": "experience",
+    "topic": "少量データでの技術選定",
+    "content": "少量データの分類研究で複雑なモデルを使ったところ、検証精度が安定しなかった。",
+    "reason": null,
+    "source": "sample_session"
+  },
+  {
+    "id": "k002",
+    "type": "decision",
+    "topic": "少量データでの技術選定",
+    "content": "複雑なモデルから単純な手法へ変更し、交差検証を追加した。",
+    "reason": "少量データでは分散を抑えることが重要だと判断したため。",
+    "source": "sample_session"
+  },
+  {
+    "id": "k003",
+    "type": "lesson",
+    "topic": "技術選定",
+    "content": "技術選定では公称性能だけでなく、データ量、評価方法、運用時の再現性も考慮する。",
+    "reason": null,
+    "source": "sample_session"
+  }
+]
